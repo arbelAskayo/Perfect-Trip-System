@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Places>
+<Place>
+        <PlaceID>11</PlaceID>
+        <placeName>Delicias do Brasil</placeName>
+        <placeDescription>Authentic Brazilian cuisine with a focus on grilled meats and tropical flavors.</placeDescription>
+        <priceLevel>LOW</priceLevel>
+        <mapURL>http://maps.google.com/?q=Delicias+do+Brasil</mapURL>
+        <cityCode>55BR</cityCode>
+        <Country>Brazil</Country>
+        <CityName>Rio de Janeiro</CityName>
+        <Type>Restaurant</Type>
+        <KitchenStyles>Churrascaria</KitchenStyles>
+    </Place>
+    <Place>
+        <PlaceID>12</PlaceID>
+        <placeName>Maple Leaf Hotel</placeName>
+        <placeDescription>A cozy hotel in the heart of Canada offering stunning views and a warm atmosphere.</placeDescription>
+        <priceLevel>MEDIUM</priceLevel>
+        <mapURL>http://maps.google.com/?q=Maple+Leaf+Hotel</mapURL>
+        <cityCode>1TOR</cityCode>
+        <Country>Canada</Country>
+        <CityName>Toronto</CityName>
+        <Type>Hotel</Type>
+        <starRating>4</starRating>
+        <AccomodationStyles>all inclusive, bed and breakfast</AccomodationStyles>
+    </Place>
+</Places>
