@@ -6,9 +6,7 @@
 3. [Setup Instructions](#setup-instructions)
 4. [Usage](#usage)
 5. [Code Overview](#code-overview)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Screenshots](#screenshots)
+
 
 ## Introduction
 
